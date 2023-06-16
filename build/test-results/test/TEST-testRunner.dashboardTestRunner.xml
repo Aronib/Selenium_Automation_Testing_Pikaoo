@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner.dashboardTestRunner" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-06T14:10:12" hostname="AR" time="19.177">
+  <properties/>
+  <testcase name="cartItemT" classname="testRunner.dashboardTestRunner" time="1.259"/>
+  <testcase name="checkSearchT" classname="testRunner.dashboardTestRunner" time="3.098"/>
+  <testcase name="sideNavCheckT" classname="testRunner.dashboardTestRunner" time="1.855"/>
+  <testcase name="fastDeliveryT" classname="testRunner.dashboardTestRunner" time="2.142"/>
+  <testcase name="bestSellingT" classname="testRunner.dashboardTestRunner" time="4.647"/>
+  <testcase name="brandSearchT" classname="testRunner.dashboardTestRunner" time="6.137"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

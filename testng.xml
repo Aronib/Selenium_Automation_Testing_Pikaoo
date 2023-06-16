@@ -1,0 +1,19 @@
+<suite thread-count="1" verbose="1" name="Pikaboo portal automation">
+    <test name="Login Test">
+        <classes>
+            <class name="testRunner.loginTestRunner"/>
+        </classes>
+    </test>
+    <test name="Dashboard Test">
+        <classes>
+            <class name="testRunner.dashboardTestRunner"/>
+        </classes>
+    </test>
+
+    <!--<test name="Search Test">
+        <classes>
+            <class name="com.example.tests.SearchTest"/> make sure to add class name properly
+        </classes>
+    </test>-->
+
+</suite>
