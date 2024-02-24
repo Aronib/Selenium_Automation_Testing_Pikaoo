@@ -31,8 +31,6 @@ gradle clean test
 
 Selenium will open the browser and start automation.
 
-Recorder Result:
-https://youtu.be/_yQ-r-dEo-4?si=HA1n2qNNmgGbDjUo
 
 
 
@@ -41,3 +39,6 @@ To view report, type this command:
 allure generate allure-results --clean -o allure-report
 
 allure serve allure-results
+
+Recorded Result:
+https://youtu.be/_yQ-r-dEo-4?si=HA1n2qNNmgGbDjUo
